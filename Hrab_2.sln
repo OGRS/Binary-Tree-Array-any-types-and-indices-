@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hrab_2", "Hrab_2\Hrab_2.csproj", "{F5649A9B-EAFB-4732-8849-AC8A998F8B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hrab_2.Tests", "Hrab_2.Tests\Hrab_2.Tests.csproj", "{D6E55874-6F0D-40DD-895C-DA439EFF61DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5649A9B-EAFB-4732-8849-AC8A998F8B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5649A9B-EAFB-4732-8849-AC8A998F8B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5649A9B-EAFB-4732-8849-AC8A998F8B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5649A9B-EAFB-4732-8849-AC8A998F8B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E55874-6F0D-40DD-895C-DA439EFF61DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E55874-6F0D-40DD-895C-DA439EFF61DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E55874-6F0D-40DD-895C-DA439EFF61DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E55874-6F0D-40DD-895C-DA439EFF61DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD2454F-0F06-41F0-9497-4324397FE7C1}
+	EndGlobalSection
+EndGlobal
